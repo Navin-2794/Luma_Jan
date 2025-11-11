@@ -19,5 +19,8 @@ public class BaseClass {
    System.out.println("method4");
 	}
 	
+	private void method5() {
+		System.out.println("hello");
+	}
 
 }
