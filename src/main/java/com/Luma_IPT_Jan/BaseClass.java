@@ -7,8 +7,13 @@ public class BaseClass {
 	}
 	
 	private void method2() {
-		// TODO Auto-generated method stub
 
+		System.out.println("new changes");
+		
+	}
+	
+	private void method3() {
+		System.out.println("method 3 new line");
 	}
 
 }
